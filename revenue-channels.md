@@ -7,7 +7,7 @@ Complete map of revenue channels across the sub-company architecture and their p
 | Channel | Platform | Payment Provider | Status |
 |---------|----------|-----------------|--------|
 | YouTube ad revenue | YouTube | Google AdSense | ⏳ Needs monetization setup |
-| Digital downloads | Gumroad | Stripe (via Gumroad) | ⏳ Needs Gumroad account |
+| Digital downloads | Gumroad | Stripe (via Gumroad) | ✅ Active (squadai.gumroad.com) |
 | Sponsorships | Direct | Invoice → Stripe | ⏳ Not started |
 | Newsletter premium | Kit (ConvertKit) | Stripe | ⏳ Needs connection |
 
@@ -18,14 +18,14 @@ Complete map of revenue channels across the sub-company architecture and their p
 | Game sales | Google Play | Google Play Billing | ⏳ Needs developer account |
 | In-app purchases | Google Play | Google Play Billing | ⏳ Needs developer account |
 | Game sales | Apple App Store | Apple In-App Purchase | 📋 Planned |
-| Game sales | itch.io | Stripe (via itch.io) | ⏳ Needs itch.io account |
+| Game sales | itch.io | Stripe (via itch.io) | ✅ Active (16 games live) |
 
 ## Company #3: Content Empire
 
 | Channel | Platform | Payment Provider | Status |
 |---------|----------|-----------------|--------|
 | Online courses | Teachable/Udemy | Stripe | ⏳ Needs course platform |
-| eBooks | Gumroad | Stripe (via Gumroad) | ⏳ Not started |
+| eBooks | Gumroad | Stripe (via Gumroad) | ✅ Active (squadai.gumroad.com) |
 | Workshop tickets | Eventbrite | Stripe | 📋 Planned |
 | Membership | Patreon | Stripe (via Patreon) | 📋 Planned |
 
